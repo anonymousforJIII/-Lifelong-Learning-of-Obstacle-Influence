@@ -11,7 +11,7 @@ It contains the source code for simulating a warehouse-like environment where mu
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 .
@@ -27,7 +27,7 @@ It contains the source code for simulating a warehouse-like environment where mu
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 - **Cooperative Perception**: Robots share obstacle observations to build a shared costmap.
 - **Lifelong Learning**: Lambda values in the costmap are updated based on robot experience, improving navigation over time.
@@ -38,7 +38,7 @@ It contains the source code for simulating a warehouse-like environment where mu
 
 ---
 
-## 🚀 Installation
+## Installation
 
 **Requirements:**
 
@@ -55,7 +55,7 @@ pip install pyqt5 matplotlib numpy
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 Launch the simulation by executing:
 
@@ -79,7 +79,7 @@ python main.py --grid-only
 
 ---
 
-## 🖥️ GUI Overview
+## GUI Overview
 
 | Component                  | Description                                                              |
 |-----------------------------|--------------------------------------------------------------------------|
@@ -91,7 +91,7 @@ python main.py --grid-only
 
 ---
 
-## 📊 Logging and Saving
+## Logging and Saving
 
 During or after simulation:
 
@@ -102,14 +102,14 @@ You can also **apply previously learned lambda values** to start the simulation 
 
 ---
 
-## 📈 Learning Mechanism
+## Learning Mechanism
 
 - **Lambda Update**: When robots encounter obstacles or successfully pass through suspected areas, they adjust the decay rate (`lambda`) of f(t) accordingly.
 - **Experience Grid**: Each robot internally tracks observations (IDEAL, OBSTACLE, AVOID, CHECKED, EXPLORED) to refine its model of the environment.
 
 ---
 
-## 📋 Command-line Arguments
+## Command-line Arguments
 
 | Argument           | Type    | Description                                   | Example                         |
 |--------------------|---------|-----------------------------------------------|---------------------------------|
@@ -118,7 +118,7 @@ You can also **apply previously learned lambda values** to start the simulation 
 
 ---
 
-## 🛡 License
+## License
 
 This code is made available for academic purposes accompanying a manuscript submission to CoRL 2025.
 
@@ -128,7 +128,7 @@ This code is made available for academic purposes accompanying a manuscript subm
 
 ---
 
-## ✉️ Contact
+## Contact
 
 If you have questions regarding the paper or this simulation framework, please refer to the official CoRL 2025 manuscript submission.
 
