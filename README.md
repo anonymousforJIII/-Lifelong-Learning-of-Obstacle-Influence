@@ -1,6 +1,6 @@
 # -Lifelong-Learning-of-Obstacle-Influence
 
-# 🛰 A Cooperative Costmap with Lifelong Learning for Multi-Robot Navigation
+# A Cooperative Costmap with Lifelong Learning for Multi-Robot Navigation
 
 This repository accompanies the paper:
 
