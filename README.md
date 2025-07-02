@@ -4,8 +4,7 @@
 
 This repository accompanies the paper:
 
-> **"A Cooperative Costmap with Lifelong Learning for Multi‑Robot Navigation"**  
-> submitted to the **Conference on Robot Learning (CoRL) 2025**.
+> **"A Cooperative Costmap with Lifelong Learning for Multi‑Robot Navigation"** 
 
 It contains the source code for simulating a warehouse-like environment where multiple AMRs perform missions while collaboratively building and adapting a costmap over time.
 
