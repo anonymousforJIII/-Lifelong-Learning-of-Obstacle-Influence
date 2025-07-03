@@ -119,7 +119,7 @@ You can also **apply previously learned lambda values** to start the simulation 
 
 ## License
 
-This code is made available for academic purposes accompanying a manuscript submission to CoRL 2025.
+This code is made available for academic purposes accompanying a manuscript submission to JIII.
 
 **Note: Unauthorized reproduction, distribution, or modification of this code is strictly prohibited.**
 
@@ -129,6 +129,6 @@ This code is made available for academic purposes accompanying a manuscript subm
 
 ## Contact
 
-If you have questions regarding the paper or this simulation framework, please refer to the official CoRL 2025 manuscript submission.
+If you have questions regarding the paper or this simulation framework, please refer to the official JIII manuscript submission.
 
 ---
